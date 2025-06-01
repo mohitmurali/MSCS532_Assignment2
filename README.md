@@ -1,5 +1,5 @@
-# MSCS532 Assignment - 2
-## Assignment 2 – Analyzing and Implementing Divide-and-Conquer Algorithms
+# MSCS 532 Assignment - 2
+## Analyzing and Implementing Divide-and-Conquer Algorithms
 
 
 
