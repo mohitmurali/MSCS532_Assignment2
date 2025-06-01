@@ -1,6 +1,7 @@
-# MSCS532_Assignment2
+# MSCS532 Assignment - 2
+## Assignment 2 – Analyzing and Implementing Divide-and-Conquer Algorithms
 
-MSCS 532 Assignment - 2 Repository
+
 
 git clone this repository and run the program by using this command 
 ```
